@@ -1,0 +1,31 @@
+.blog-card {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.title-date-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.blog-title {
+  font-family: Roboto;
+  font-size: 1.5rem;
+  color: #12022f;
+}
+
+.date-blog {
+  font-family: Roboto;
+  font-size: 1.2rem;
+  color: #9aa5b1;
+}
+
+.blog-description {
+  font-family: Roboto;
+  font-size: 1.3rem;
+  color: #616e7c;
+}

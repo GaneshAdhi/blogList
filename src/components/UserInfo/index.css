@@ -1,0 +1,23 @@
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-logo {
+  height: 5rem;
+  width: 5rem;
+}
+
+.profile-name {
+  font-family: Roboto;
+  font-size: 1.7rem;
+  color: #12022f;
+}
+
+.profile-bio-text {
+  font-family: Roboto;
+  font-size: 1.2rem;
+  color: #9aa5b1;
+}
